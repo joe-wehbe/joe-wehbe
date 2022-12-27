@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **Mobile Development**
 
-- 💬 Ask me about **Java, Python, Android, PHP, C**
+- 💬 Ask me about: **Java, Python, Android, PHP, C**
 
-- 📫 How to reach me **joewehbe@yahoo.com**
+- 📫 How to reach me: **joewehbe@yahoo.com**
 
-- ⚡ Fun fact **Professional Chess Player**
+- ⚡ Fun fact: **Professional Chess Player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
