@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe Wehbe</h1>
 <h3 align="center">A Computer Science Student at the Lebanese American University</h3>
 
-<img align="right" alt="Coding" width = "400" src = "https://tiptopbrain.com/wp-content/uploads/2020/05/coding-on-pc-icon-1024x704.png">
+<img align="right" alt="Coding" width = "400" src = "https://www.adspltech.net/assets/images/App%20development%20ADSPL.gif">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
