@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe Wehbe</h1>
 <h3 align="center">A Computer Science Student at the Lebanese American University</h3>
 
-<img align="right" alt="Coding" width = "400" src = "[https://p7.hiclipart.com/preview/51/881/163/programmer-source-code-clip-art-computer.jpg](https://p7.hiclipart.com/preview/51/881/163/programmer-source-code-clip-art-computer.jpg)">
+<img align="right" alt="Coding" width = "400" src = "https://p7.hiclipart.com/preview/51/881/163/programmer-source-code-clip-art-computer.jpg">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
