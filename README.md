@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joe Wehbe</h1>
 <h3 align="center">A Computer Science Student at the Lebanese American University</h3>
-![image](https://user-images.githubusercontent.com/102875229/209649475-ec24087e-8e22-4388-9507-188ed9952ac1.png)
+
+<img align="right" alt="Coding" width = "400" src = "https://user-images.githubusercontent.com/102875229/209649475-ec24087e-8e22-4388-9507-188ed9952ac1.png">
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
