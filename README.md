@@ -16,8 +16,6 @@
 - ⚡ Fun fact: **Professional Chess Player**
 
 ***
-
-<h2 align="left">Languages and Tools</h2>
   
   <p align="left">
     Programming Languages  </br>
