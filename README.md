@@ -54,8 +54,8 @@
 
 
 ### Some Statistics
-<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&locale=en" alt="joe-wehbe" />
-<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&" alt="joe-wehbe" />
+<p><img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&locale=en" alt="joe-wehbe" />
+<img align="center" width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&" alt="joe-wehbe" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&locale=en&layout=compact" alt="joe-wehbe" /></p>
 
 ***
