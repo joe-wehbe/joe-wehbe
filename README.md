@@ -57,10 +57,10 @@
 
 ### Github Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe" alt="joe-wehbe" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe" /> </p>
+
 
 ### Some Statistics
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&locale=en" alt="joe-wehbe" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&" alt="joe-wehbe" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&locale=en&layout=compact" alt="joe-wehbe" /></p>
