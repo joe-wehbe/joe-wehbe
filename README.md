@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: **Professional Chess Player**
 
-
+***
 
 <h3 align="left">Languages and Tools</h3>
   
