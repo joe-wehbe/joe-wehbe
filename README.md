@@ -17,7 +17,7 @@
 
 ***
 
-<h3 align="left">Languages and Tools</h3>
+<h2 align="left">Languages and Tools</h2>
   
   <p align="left">
     Programming Languages  </br>
