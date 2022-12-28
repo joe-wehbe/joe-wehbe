@@ -3,6 +3,7 @@
 
 <img align="right" alt="Coding" width = "400" src = "https://www.adspltech.net/assets/images/App%20development%20ADSPL.gif">
 
+***
 
 - 🔭 I’m currently working on [MyCar](https://github.com/Joe-Wehbe/MyCar)
 
