@@ -61,7 +61,7 @@
 <p><img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en" alt="joe-wehbe" />
    <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical" alt="joe-wehbe" />
    <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-wehbe&exclude_repo=Joe-Wehbe,CineLeb&theme=radical&layout=compact" alt = "joe-wehbe"/>
-   <img align="center" width ="420" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joe-wehbe&theme=radical" alt="joe-wehbe"/>
+   <img align="center" width ="420" height "300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joe-wehbe&theme=radical" alt="joe-wehbe"/>
   
   
 </p>
