@@ -49,7 +49,7 @@
 ***
 
 ### Github Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=radical" alt="joe-wehbe" />
+<img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=dark" alt="joe-wehbe" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe" /> </p>
 
 
