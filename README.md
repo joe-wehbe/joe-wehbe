@@ -55,7 +55,7 @@
 
 ### Some Statistics
 <p><img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=dark&locale=en" alt="joe-wehbe" />
-   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&" alt="joe-wehbe" />
+   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=dark" alt="joe-wehbe" />
 </p>
 
 ***
