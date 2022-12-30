@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe Wehbe</h1>
 <h3 align="center">Computer Science Student at the Lebanese American University</h3>
 
-<img align="right" alt="Coding" width = "400" src = "https://www.adspltech.net/assets/images/App%20development%20ADSPL.gif">
+<img align="right" alt="Coding" width = "400" src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joe-wehbe&theme=radical">
 <img align="center" width ="420" border="white" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joe-wehbe&theme=radical" alt="joe-wehbe"/>
 
 - 🔭 I’m currently working on [MyCar](https://github.com/Joe-Wehbe/MyCar)
