@@ -69,7 +69,7 @@
 
 
 ### Some Statistics
-<a><img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=midnight-purple&locale=en" alt="joe-wehbe"/></a>   
+<a><img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=transparent&locale=en" alt="joe-wehbe"/></a>   
 <a><img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="joe-wehbe" /></a>   
 <a><img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=midnight-purple" alt="joe-wehbe"/></a>
 
