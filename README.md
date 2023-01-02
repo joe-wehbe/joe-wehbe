@@ -65,7 +65,7 @@
 ***
 
 ### Github Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=drakula" alt="joe-wehbe" />
+<img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=dracula" alt="joe-wehbe" />
 
 
 ### Some Statistics
