@@ -29,12 +29,14 @@
   <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> </a>  
   <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a> </p>
   
+  
   <p align="left">
   Frameworks/Libraries </br>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="mysql"/> </a>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="postman"/> </a>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda"/> </a></p>
+  
   
   <p align="left">
   IDEs/Editors </br>
@@ -47,12 +49,12 @@
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" alt="spyder"/> </a>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime_text"/> </a> 
    
+   
   <p align="left">
   ML/DL </br>
   <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/> </a> 
   <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib"/> </a> 
     
-      
       
   <p align="left">
   Other </br>
@@ -64,6 +66,7 @@
 
 ### Github Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=radical" alt="joe-wehbe" />
+
 
 ### Some Statistics
  </p><img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en" alt="joe-wehbe" />
