@@ -65,7 +65,7 @@
 ***
 
 ### Github Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=radical" alt="joe-wehbe" />
+<img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=midnight_purple" alt="joe-wehbe" />
 
 
 ### Some Statistics
