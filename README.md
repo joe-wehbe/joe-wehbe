@@ -65,7 +65,7 @@
 ***
 
 ### Github Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=discord" alt="joe-wehbe" />
+<img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=algolia" alt="joe-wehbe" />
 
 
 ### Some Statistics
