@@ -65,13 +65,13 @@
 ***
 
 ### Github Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=midnight_purple" alt="joe-wehbe" />
+<img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=darkhub" alt="joe-wehbe" />
 
 
 ### Some Statistics
 | Contributions | Languages |
 | ---------- | --------  |
-| <img src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en&no-frame=true" alt="joe-wehbe"/>           | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&locale=en&layout=compact&theme=radical" alt="joe-wehbe" />          |
+| <img src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en" alt="joe-wehbe"/>           | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&locale=en&layout=compact&theme=radical" alt="joe-wehbe" />          |
 |<img src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical" alt="joe-wehbe"/>
 
 ***
