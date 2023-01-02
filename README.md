@@ -71,8 +71,8 @@
 ### Some Statistics
 | Statistics | Languages |
 | ---------- | --------  |
-| <a><img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en" alt="joe-wehbe"/></a>           | <a><img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-wehbe&exclude_repo=Joe-Wehbe,CineLeb&theme=radical" alt = "joe-wehbe"/></a>          |
-|<a><img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical" alt="joe-wehbe"/></a>            |           |
+| <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en" alt="joe-wehbe"/>           | <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joe-wehbe&exclude_repo=Joe-Wehbe,CineLeb&theme=radical" alt = "joe-wehbe"/>          |
+|<img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical" alt="joe-wehbe"/>            |           |
   
   
   
