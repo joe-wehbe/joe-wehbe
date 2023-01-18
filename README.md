@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [MyCar](https://github.com/Joe-Wehbe/MyCar)
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Scripting and Software Engineering**
 
-- 💬 Ask me about: **Java, Python, Android, PHP**
+- 💬 Ask me about: **Java, Python, C, PHP**
 
 - 📫 How to reach me: **joewehbe@yahoo.com**
 
