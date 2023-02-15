@@ -22,7 +22,6 @@
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a> 
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="php"/ </a></p>
-  
   ### Databases
   <p align="left">
   <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>  
