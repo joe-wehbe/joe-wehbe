@@ -68,10 +68,7 @@
 <a><img align="center" width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical" alt="joe-wehbe"/></a>
 <a><img align="center" width="440" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=radical" alt="joe-wehbe" /></a>   
 
-
-***
-
 ### Connect with me
-<p align="left">
+<p align="right">
 <a href="https://www.linkedin.com/in/joe-wehbe-5739ba23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joe wehbe" height="30" width="40" /></a>
 </p>
