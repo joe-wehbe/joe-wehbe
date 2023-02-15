@@ -60,10 +60,10 @@
   
 ***
 
-## Github Achievements <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe" />
+### Github Achievements <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe" />
 <img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=radical" alt="joe-wehbe" />
 
-## Some Statistics
+### Some Statistics
 <a><img align="center" width="440" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en" alt="joe-wehbe"/></a>
 <a><img align="center" width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical" alt="joe-wehbe"/></a>
 <a><img align="center" width="440" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=radical" alt="joe-wehbe" /></a>   
@@ -71,7 +71,7 @@
 
 ***
 
-## Connect with me
+### Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/joe-wehbe-5739ba23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joe wehbe" height="30" width="40" /></a>
 </p>
