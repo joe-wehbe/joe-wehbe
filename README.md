@@ -69,10 +69,10 @@
 ### Some More Info
 | Statistics | Languages |
 | ---------- | --------- |
-| <a><img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en" alt="joe-wehbe"/></a> | <a><img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=radical" alt="joe-wehbe" /> | 
-| <a><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical" alt="joe-wehbe"/> | <a><img align="center" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=radical" /> |
-| <a><img align="center" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joe-wehbe&theme=radical&utcOffset=8" /> |
-<a><img align="center" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joe-wehbe&theme=radical" /> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en" alt="joe-wehbe"/></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=radical" alt="joe-wehbe" /> | 
+| <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical" alt="joe-wehbe"/> | <a><img align="center" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=radical" /> |
+| <a><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joe-wehbe&theme=radical&utcOffset=8" /> |
+<a><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joe-wehbe&theme=radical" /> |
 
 ***
 
