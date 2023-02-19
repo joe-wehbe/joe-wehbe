@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **joewehbe@yahoo.com**
 
-- ⚡ Fun fact: **Professional Chess Player** ![image](https://user-images.githubusercontent.com/102875229/219969639-d362d581-88de-406a-8981-307ca53a7ef8.png)
+- ⚡ Fun fact: **Professional Chess Player**
 
 
 ***
