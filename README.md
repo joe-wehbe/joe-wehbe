@@ -11,7 +11,8 @@
 
 - 📫 How to reach me: **joewehbe@yahoo.com**
 
-- ⚡ Fun fact: **Professional Chess Player**
+- ⚡ Fun fact: **Professional Chess Player** ![image](https://user-images.githubusercontent.com/102875229/219969639-d362d581-88de-406a-8981-307ca53a7ef8.png)
+
 
 ***
   
@@ -64,7 +65,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=radical" alt="joe-wehbe" />
 
 ### Some Statistics
-
+|            |           |
 | ---------- | --------- |
 | <a><img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en" alt="joe-wehbe"/></a>
 <a><img align="center" width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical" alt="joe-wehbe"/></a>           | <a><img align="center" width="440" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=radical" alt="joe-wehbe" /></a>   
