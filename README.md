@@ -76,6 +76,10 @@
 <a><img align="center" width=500 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joe-wehbe&theme=radical" />
   
 <a><img align="center" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=radical" />
+  
+<a><img align="center" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joe-wehbe&theme=radical" />
+  
+<a><img align="center" width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joe-wehbe&theme=radical&utcOffset=8" />
 
 ***
 
