@@ -60,13 +60,13 @@
   
 ***
 
-### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Github Achievements <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe" />
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Github Achievements <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe" />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=radical" alt="joe-wehbe" />
 
-### Some Statistics
-<a><img align="center" width="440" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en" alt="joe-wehbe"/></a>
-<a><img align="center" width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical" alt="joe-wehbe"/></a>
-<a><img align="center" width="440" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=radical" alt="joe-wehbe" /></a>   
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Some Statistics
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a><img align="center" width="440" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en" alt="joe-wehbe"/></a>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a><img align="center" width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical" alt="joe-wehbe"/></a>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a><img align="center" width="440" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=radical" alt="joe-wehbe" /></a>   
 <p align="right">
 
 ***
