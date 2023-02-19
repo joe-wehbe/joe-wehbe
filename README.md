@@ -60,7 +60,7 @@
   
 ***
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ### Github Achievements <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe" />
+### &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Github Achievements <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe" />
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=radical" alt="joe-wehbe" />
 
 ### Some Statistics
