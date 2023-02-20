@@ -11,8 +11,7 @@
 
 - 📫 How to reach me: **joewehbe@yahoo.com**
 
-- ⚡ Fun fact: **Professional Chess Player** &nbsp; <a href="https://lichess.org/@/ANON-X71"> <img src="https://user-images.githubusercontent.com/102875229/220140983-739435e8-7ace-41d4-bdf4-619fb8284d05.png" width = "35" /></a>
-
+- ⚡ Fun fact: **Professional Chess Player** &nbsp; 
 
 ***
   
@@ -76,4 +75,5 @@
 <a href="https://www.linkedin.com/in/joe-wehbe/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/Joe-Wehbe" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="1545" /></a>
 <a href="https://discord.gg/#1545" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="1545" /></a>
+<a href="https://lichess.org/@/ANON-X71"> <img src="https://user-images.githubusercontent.com/102875229/220140983-739435e8-7ace-41d4-bdf4-619fb8284d05.png" width = "35" /></a>
 
