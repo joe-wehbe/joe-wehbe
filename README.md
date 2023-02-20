@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [MyCar](https://github.com/Joe-Wehbe/MyCar)
 
-- 🌱 I’m currently learning **Scripting and Software Engineering**
+- 🌱 I’m currently learning **Scripting** and **Software Engineering**
 
 - 💬 Ask me about: **Java, Python, C, PHP**
 
 - 📫 How to reach me: **joewehbe@yahoo.com**
 
-- ⚡ Fun fact: **Professional Chess Player** &nbsp; 
+- ⚡ Fun fact: **Professional Chess Player** 
 
 ***
   
