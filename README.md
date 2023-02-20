@@ -63,8 +63,8 @@
 ### Github Achievements <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe" />
 <img src="https://github-profile-trophy.vercel.app/?username=joe-wehbe&theme=radical" alt="joe-wehbe" />
 
-### Some Information
-| Statistics | Languages |
+### Some Statistics
+| General | Languages |
 | ---------- | --------- |
 | <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en" alt="joe-wehbe"/> | <img align="center" width="475" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=radical" alt="joe-wehbe" /> | 
 | <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical" alt="joe-wehbe"/> | &nbsp;<img align="center" width="208" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=radical&exclude_repo=Joe-Wehbe,CineLeb" /> <img align="center" width="208" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joe-wehbe&theme=radical&exclude_repo=Joe-Wehbe,CineLeb" /> |
