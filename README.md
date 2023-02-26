@@ -2,6 +2,7 @@
 <h3 align="center">Computer Science Student at the Lebanese American University</h3>
 
 <img src="https://github.com/Joe-Wehbe/Joe-Wehbe/blob/main/images/wave.gif" width="30px">
+![:wave:](https://github.com/Joe-Wehbe/Joe-Wehbe/blob/main/images/:wave:.gif)
 
 
 <img align="right" alt="Coding" width="400" src = "https://www.adspltech.net/assets/images/App%20development%20ADSPL.gif">
