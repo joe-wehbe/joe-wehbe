@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe Wehbe</h1>
 <h3 align="center">Computer Science Student at the Lebanese American University</h3>
 
-<img align="right" alt="Coding" width="400" src = "https://www.adspltech.net/assets/images/App%20development%20ADSPL.gif">
+<img align="right" alt="Coding" width="400" src = "https://user-images.githubusercontent.com/102875229/232008164-bd29959d-9013-433a-ac1a-47cf076c21a4.png">
 
 - 🔭 I’m currently working on [MyCar](https://github.com/Joe-Wehbe/MyCar)
 
