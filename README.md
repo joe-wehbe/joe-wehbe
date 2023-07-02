@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MyCar](https://github.com/Joe-Wehbe/MyCar)
 
-- 🌱 I’m currently learning **Scripting** and **Software Engineering**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about: **Java, Python, C, PHP**
 
