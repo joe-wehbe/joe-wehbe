@@ -30,7 +30,7 @@
   Databases <br>
   <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a>  
   <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> </a>  
-  <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a> </p>
+ </p>
   
   <p align="left">
     Frameworks/Platforms/Libraries <br>
