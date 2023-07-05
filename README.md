@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joe Wehbe</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />, I'm Joe Wehbe</h1> 
 <h3 align="center">Computer Science Student at the Lebanese American University</h3>
 
 <img align="right" alt="Coding" width="400" src = "https://www.adspltech.net/assets/images/App%20development%20ADSPL.gif">
