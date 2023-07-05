@@ -84,5 +84,3 @@
 <a href="https://github.com/Joe-Wehbe" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="1545" /></a>
 <a href="https://discord.gg/#1545" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="1545" /></a>
 <a href="https://lichess.org/@/ANON-X71"><img align="center" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format" width = "46"/></a>
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/joe-wehbe/langs)](https://githubtrends.io)
