@@ -76,8 +76,8 @@
 ### Some Statistics
 | General | Languages |
 | ---------- | --------- |
-| <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="365" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=radical&hide_border=true" alt="joe-wehbe" /> | 
-| <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="365" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=radical&exclude_repo=Joe-Wehbe,CineLeb" /> |
+| <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="305" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=radical&hide_border=true" alt="joe-wehbe" /> | 
+| <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="305" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=radical&exclude_repo=Joe-Wehbe,CineLeb" /> |
 
 ***
 
