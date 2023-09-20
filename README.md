@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />, I'm Joe Wehbe</h1> 
 <h3 align="center">Computer Science Student at the Lebanese American University</h3>
 
-<img align="right" alt="Coding" width="400" src = "https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
+<img align="right" alt="Coding" width="300" src = "https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
 - 🔭 I’m currently working on [MyCar](https://github.com/Joe-Wehbe/MyCar)
 
