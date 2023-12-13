@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="300" src = "https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
-- 🔭 I’m currently working on [MyCar](https://github.com/Joe-Wehbe/MyCar)
+- 🔭 I’m currently working on **university projects**
 
 - 🌱 I’m currently learning **Web Development and Computer Networks**
 
