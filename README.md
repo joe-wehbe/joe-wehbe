@@ -1,5 +1,4 @@
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />, I'm Joe Wehbe</h1> 
-<h3 align="center">Computer Science Student at the Lebanese American University</h3>
+![header](https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/afeede21-2fbc-41eb-911a-d92c12a4f1d7)
 
 <img align="right" alt="Coding" width="300" src = "https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
@@ -79,6 +78,8 @@
 | ---------- | --------- |
 | <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="305" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=radical&hide_border=true" alt="joe-wehbe" /> | 
 | <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="305" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=radical&exclude_repo=Joe-Wehbe,CineLeb" /> |
+
+<!-- [![Joe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joe-wehbe&theme=dracula)](https://github.com/joe-wehbe/github-readme-activity-graph) -->
 
 ***
 
