@@ -1,5 +1,4 @@
-![github-header-image (2)](https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/5f18ed49-e2d6-4c69-b400-9c13c02c3414)
-
+![github-header-image](https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/4a78d1cb-07f9-4714-a0f1-28cca33d3e79)
 
 <img align="right" alt="Coding" width="300" src = "https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
