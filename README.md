@@ -71,13 +71,13 @@
 ***
 
 ### Github Achievements <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe"/> <img alt="followers" width="88" title="Follow me on Github" src="https://img.shields.io/github/followers/joe-wehbe?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> <img src="https://img.shields.io/github/stars/joe-wehbe?label=Stars" alt="stars">
-[![trophy](https://github-profile-trophy.vercel.app/?username=joe-wehbe&column=-1&theme=radical&margin-w=5&no-frame=true)](https://github.com/joe-wehbe/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=joe-wehbe&column=-1&theme=nord&margin-w=5&no-frame=true)](https://github.com/joe-wehbe/github-profile-trophy)
 
 ### Some Statistics
 | Contributions | Languages |
 | ---------- | --------- |
-| <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=radical&locale=en&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="305" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=radical&hide_border=true" alt="joe-wehbe" /> | 
-| <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=radical&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="305" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=radical&exclude_repo=Joe-Wehbe,CineLeb" /> |
+| <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=nord&locale=en&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="305" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=nord&hide_border=true" alt="joe-wehbe" /> | 
+| <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=nord&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="305" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=nord&exclude_repo=Joe-Wehbe,CineLeb" /> |
 
 <!-- [![Joe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joe-wehbe&theme=dracula)](https://github.com/joe-wehbe/github-readme-activity-graph) -->
 
