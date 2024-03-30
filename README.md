@@ -2,15 +2,13 @@
 
 <img align="right" alt="Coding" width="300" src = "https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
-- 🔭 I’m currently working on **university projects**
+- I’m currently working on **university projects**
 
-- 🌱 I’m currently learning **Web Development and Computer Networks**
+- I’m currently learning **Ionic and Laravel**
 
-- 💬 Ask me about: **Java, Python, C, PHP**
+- How to reach me: **joewehbe@yahoo.com**
 
-- 📫 How to reach me: **joewehbe@yahoo.com**
-
-- ⚡ Fun fact: **Professional Chess Player** 
+- Fun fact: **Professional Chess Player** 
 
 ***
 
