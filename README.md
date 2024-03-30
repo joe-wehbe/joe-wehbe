@@ -73,6 +73,8 @@
 ### Github Achievements <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe"/> <img alt="followers" width="88" title="Follow me on Github" src="https://img.shields.io/github/followers/joe-wehbe?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> <img src="https://img.shields.io/github/stars/joe-wehbe?label=Stars" alt="stars">
 [![trophy](https://github-profile-trophy.vercel.app/?username=joe-wehbe&column=-1&theme=tokyonight&margin-w=5&no-frame=true)](https://github.com/joe-wehbe/github-profile-trophy)
 
+***
+
 ### Some Statistics
 | Contributions | Languages |
 | ---------- | --------- |
