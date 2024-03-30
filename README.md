@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112)
 
-<img align="right" alt="Coding" width="240" src = "https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
+<img align="right" alt="Coding" width="200" src = "https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
 - I’m currently working on **university projects**
 
@@ -8,7 +8,6 @@
 
 - How to reach me: **joewehbe@yahoo.com**
 
-- Fun fact: **Professional Chess Player** 
 
 - Fun fact: **Professional Chess Player** 
 
