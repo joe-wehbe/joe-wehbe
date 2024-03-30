@@ -2,9 +2,9 @@
 
 <img align="right" alt="Coding" width="300" src = "https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
-- I’m currently working on **my capstone project**
+- I’m currently working on my **Capstone Project**
 
-- I’m currently gaining expertise in **Ionic and Laravel**
+- I’m currently gaining expertise in **Ionic** and **Laravel**
 
 - How to reach me: **joewehbe@yahoo.com**
 
