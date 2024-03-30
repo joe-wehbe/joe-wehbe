@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112)
 
-<img align="right" alt="Coding" width="200" src = "https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
+<img align="right" alt="Coding" width="300" src = "https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
 - I’m currently working on **university projects**
 
@@ -8,12 +8,10 @@
 
 - How to reach me: **joewehbe@yahoo.com**
 
-
 - Fun fact: **Professional Chess Player** 
 
+***
 
-
-# Tools and Languages
   <p align="left">
    Languages <br>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a> 
@@ -69,14 +67,12 @@
   <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"/> </a>
   <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/> </a> </p>
    
+***
 
-
-# Github Achievements <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe"/> <img alt="followers" width="88" title="Follow me on Github" src="https://img.shields.io/github/followers/joe-wehbe?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> <img src="https://img.shields.io/github/stars/joe-wehbe?label=Stars" alt="stars">
+### Github Achievements <img src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe"/> <img alt="followers" width="88" title="Follow me on Github" src="https://img.shields.io/github/followers/joe-wehbe?color=236ad3&style=for-the-badge&logo=github&label=Follow"/> <img src="https://img.shields.io/github/stars/joe-wehbe?label=Stars" alt="stars">
 [![trophy](https://github-profile-trophy.vercel.app/?username=joe-wehbe&column=-1&theme=tokyonight&margin-w=5&no-frame=true)](https://github.com/joe-wehbe/github-profile-trophy)
 
-
-
-# Some Statistics
+### Some Statistics
 | Contributions | Languages |
 | ---------- | --------- |
 | <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="305" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="joe-wehbe" /> | 
@@ -84,9 +80,9 @@
 
 <!-- [![Joe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joe-wehbe&theme=dracula)](https://github.com/joe-wehbe/github-readme-activity-graph) -->
 
+***
 
-
-# Connect with me
+### Connect with me
 <a href="https://github.com/Joe-Wehbe" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="1545" /></a>
 <a href="https://www.linkedin.com/in/joe-wehbe/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://leetcode.com/Joe-Wehbe/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" width = "46"/></a>
