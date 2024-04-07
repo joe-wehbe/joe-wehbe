@@ -76,12 +76,13 @@
 ***
 
 ### Some Statistics
-| Contributions | Languages |
-| ---------- | --------- |
-| <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=transparent&locale=en&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="305" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=transparent&hide_border=true" alt="joe-wehbe" /> | 
-| <img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=transparent&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" width="305" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=transparent&exclude_repo=Joe-Wehbe,CineLeb" /> |
+| Contributions | Languages | 
+| ------------- | --------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=transparent&locale=en&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=transparent&hide_border=true" alt="joe-wehbe" /> | 
+| <img width="500" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joe-wehbe&theme=github-dark-dimmed&hide_border=true" alt="Joe's github activity graph" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joe-wehbe&theme=transparent&hide_border=true" alt="joe-wehbe"/> |
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=transparent&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=transparent&exclude_repo=Joe-Wehbe,CineLeb" /> | 
 
-<!-- [![Joe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joe-wehbe&theme=dracula)](https://github.com/joe-wehbe/github-readme-activity-graph) -->
+
 
 ***
 
