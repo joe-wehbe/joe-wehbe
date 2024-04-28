@@ -34,9 +34,10 @@
   <p align="left">
     Frameworks/Platforms/Libraries <br>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="mysql"/> </a>
-   <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="mysql"/> </a>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white" alt="ionic"/></a>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="iangularonic"/></a>    
+   <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="firebase"/> </a>
+   <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="mysql"/> </a>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> </a>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="xampp"/> </a>
    <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="anaconda"/> </a></p>
