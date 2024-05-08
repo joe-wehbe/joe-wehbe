@@ -1,5 +1,5 @@
-![github-header-image](https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112)
-<img align="right" alt="Coding" width="300" src = "https://github.com/Joe-Wehbe/Joe-Wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
+![github-header-image](https://github.com/joe-wehbe/joe-wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112)
+<img align="right" alt="Coding" width="300" src = "https://github.com/joe-wehbe/joe-wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
 <!-- - I’m currently working on my **Capstone Project**
 
@@ -83,14 +83,14 @@ Other <br>
 ### Some Statistics
 | Contributions | Languages | 
 | ------------- | --------- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=transparent&locale=en&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=Joe-Wehbe,CineLeb&locale=en&layout=compact&theme=transparent&hide_border=true" alt="joe-wehbe" /> | 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=transparent&locale=en&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=joe-wehbe,CineLeb&locale=en&layout=compact&theme=transparent&hide_border=true" alt="joe-wehbe" /> | 
 | <img width="500" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joe-wehbe&theme=github-dark-dimmed&hide_border=true" alt="Joe's github activity graph" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joe-wehbe&theme=transparent&hide_border=true" alt="joe-wehbe"/> |
-| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=transparent&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=transparent&exclude_repo=Joe-Wehbe,CineLeb" /> | 
+| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=transparent&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=transparent&exclude_repo=joe-wehbe,CineLeb" /> | 
 
 ***
 
 ### Connect with me
-<a href="https://github.com/Joe-Wehbe" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="1545" /></a>
+<a href="https://github.com/joe-wehbe" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="1545" /></a>
 <a href="https://www.linkedin.com/in/joe-wehbe/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://leetcode.com/Joe-Wehbe/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" width = "46"/></a>
+<a href="https://leetcode.com/joe-wehbe/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" width = "46"/></a>
 <!--<a href="https://lichess.org/@/ANON-X71"><img align="center" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format" width = "46"/></a>-->
