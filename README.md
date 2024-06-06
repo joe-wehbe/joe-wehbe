@@ -1,16 +1,6 @@
 ![github-header-image](https://github.com/joe-wehbe/joe-wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112)
 <img align="right" alt="Coding" width="300" src = "https://github.com/joe-wehbe/joe-wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
-<!-- - I’m currently working on my **Capstone Project**
-
-- I’m currently gaining expertise in **Ionic** and **Laravel**
-
-- How to reach me: **joewehbe@yahoo.com**
-
-- Fun fact: **Professional Chess Player** 
-
-*** -->
-
 ### Tools and Languages
 <p align="left">
 Languages <br>
@@ -56,14 +46,6 @@ IDEs/Editors <br>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="notepad++"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="sublime_text"> </a> 
 </p>
-
-<!-- <p align="left">
-ML/DL <br>
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"> </a> 
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib"> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"> </a> 
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"> </a> 
-</p> -->
 
 <p align="left">
 Other <br>    
