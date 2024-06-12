@@ -75,4 +75,4 @@ Other <br>
 <a href="https://github.com/joe-wehbe" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="1545" /></a>
 <a href="https://www.linkedin.com/in/joe-wehbe/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://leetcode.com/joe-wehbe/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" width = "46"/></a>
-<!--<a href="https://lichess.org/@/ANON-X71"><img align="center" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format" width = "46"/></a>-->
+<!--<a href="https://lichess.org/@/JW8"><img align="center" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format" width = "46"/></a>-->
