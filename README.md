@@ -66,7 +66,7 @@ Other <br>
 | Contributions | Languages | 
 | ------------- | --------- |
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=transparent&locale=en&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=joe-wehbe,CineLeb&locale=en&layout=compact&theme=transparent&hide_border=true" alt="joe-wehbe" /> | 
-| <img width="500" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joe-wehbe&theme=github-compact&hide_border=true&&area=true&line=1E60B1&area_color=1E60B1" alt="Joe's github activity graph" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joe-wehbe&theme=transparent&hide_border=true" alt="joe-wehbe"/> |
+| <img width="500" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joe-wehbe&theme=github-compact&hide_border=true&line=1E60B1" alt="Joe's github activity graph" /> | <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joe-wehbe&theme=transparent&hide_border=true" alt="joe-wehbe"/> |
 | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-wehbe&theme=transparent&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joe-wehbe&theme=transparent&exclude_repo=joe-wehbe" /> | 
 
 ***
