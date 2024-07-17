@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/joe-wehbe/joe-wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112)
+
 ### Tools and Languages
-<p align="left">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -80,13 +80,10 @@
   </tbody>
 </table>
 
-
-
-
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">Frameworks/Platforms/Libraries</th>
+      <th colspan="8" align="center" style="color: white;">Frameworks/Platforms/Libraries</th>
     </tr>
   </thead>
   <tbody>
@@ -110,16 +107,10 @@
   </tbody>
 </table>
 
-
-
-
-
-
-
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="4" align="center" style="color: white;">IDEs/Editors</th>
+      <th colspan="8" align="center" style="color: white;">IDEs/Editors</th>
     </tr>
   </thead>
   <tbody>
@@ -145,12 +136,6 @@
     </tr>
   </tbody>
 </table>
-
-
-
-
-
-
 
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
