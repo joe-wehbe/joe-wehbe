@@ -1,3 +1,5 @@
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=122B6C&fontAlign=0&reversal=false&fontAlignY=0&descAlign=100&descAlignY=100"/> -->
+
 ![github-header-image](https://github.com/joe-wehbe/joe-wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112)
 
 ### Tools and Languages
@@ -93,6 +95,9 @@
       </td>
       <td align="center" style="border: none;">
         <img src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" width="50" height="50" alt="Django"/><br>Angular
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/joe-wehbe/emergency-response-unit/assets/102875229/641334fc-6c12-449c-8da8-a252bb4a90dc" width="50" height="50" alt="Django"/><br>Ionic
       </td>
       <td align="center" style="border: none;">
         <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" width="50" height="50" alt="Flask"/><br>Firebase
@@ -229,7 +234,17 @@ Other <br>
 ***
 
 ### Connect with me
-<a href="https://github.com/joe-wehbe" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="1545" /></a>
+<!-- <a href="https://github.com/joe-wehbe" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="1545" /></a>
 <a href="https://www.linkedin.com/in/joe-wehbe/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://leetcode.com/joe-wehbe/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" width = "46"/></a>
-<!--<a href="https://lichess.org/@/JW8"><img align="center" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format" width = "46"/></a>-->
+<a href="https://lichess.org/@/JW8"><img align="center" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format" width = "46"/></a>-->
+
+
+<a href="https://github.com/joe-wehbe" target="_blank"> <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FJoe+Wehbe&size=square" alt="Joe Wehbe"></a>
+<a href="https://www.linkedin.com/in/joe-wehbe/" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Joe+Wehbe&size=square" alt="Joe Wehbe"></a>
+<a href="joewehbe@yahoo.com" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=joewehbe%40yahoo.com&subtitle=joewehbe@yahoo.com&size=square" alt="Joe Wehbe"></a>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=122B6C&fontAlign=50&reversal=false&fontAlignY=36&descAlign=53&descAlignY=49&textBg=false&fontSize=46&animation=fadeIn&section=footer"/>
+
+
