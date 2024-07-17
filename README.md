@@ -220,7 +220,7 @@ Other <br>
 ***
 
 ### Github Achievements <img width="120" src="https://komarev.com/ghpvc/?username=joe-wehbe&label=Profile%20views&color=0e75b6&style=flat" alt="joe-wehbe"/> <img alt="followers" width="85" title="Follow me on Github" src="https://img.shields.io/github/followers/joe-wehbe?color=236ad3&style=flat&label=Followers"/> <img src="https://img.shields.io/badge/dynamic/json?&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/joe-wehbe" alt="stars"> <img src="https://img.shields.io/badge/dynamic/json?&label=Forks&style=flat&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/joe-wehbe" alt="stars"> <a href="https://committers.top/lebanon.html" target="blank"><img src="https://user-badge.committers.top/lebanon/joe-wehbe.svg" alt="1545" /></a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=joe-wehbe&column=-1&theme=nord&margin-w=5&no-frame=true)](https://github.com/joe-wehbe/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=joe-wehbe&column=-1&theme=darkhub&margin-w=5&no-frame=true)](https://github.com/joe-wehbe/github-profile-trophy)
 
 ***
 
