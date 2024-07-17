@@ -12,52 +12,28 @@
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/>
-        </a>
-        <br>Java
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/><br>Java
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Java" width="50" height="50"/>
-        </a>
-        <br>Python
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" width="50" height="50"/>
-        </a>
-        <br>C
+          <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" width="50" height="50"/><br>C
       </td>
       <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" width="50" height="50" alt="php"/>
-        </a>
-        <br>PHP
+          <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" alt="php" width="50" height="50" alt="php"/><br>PHP
       </td>
       <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
-        </a>
-        <br>TypeScript
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/><br>TypeScript
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-        </a>
-        <br>JavaScript
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/><br>JavaScript
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
-        </a>
-        <br>HTML
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/><br>HTML
       </td>
       <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
-        </a>
-        <br>CSS
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/><br>CSS
       </td>
     </tr>
   </tbody>
@@ -77,7 +53,7 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="50" height="50" alt="Django"/><br>SQLite
+        <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" width="50" height="50" alt="Django"/><br>SQLite
       </td>
   </tbody>
 </table>
@@ -243,7 +219,4 @@ Other <br>
 <a href="https://www.linkedin.com/in/joe-wehbe/" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Joe+Wehbe&size=square" alt="Joe Wehbe"></a>
 <a href="https://github.com/joe-wehbe" target="_blank"> <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FJoe+Wehbe&size=square" alt="Joe Wehbe"></a>
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=122B6C&fontAlign=50&reversal=false&fontAlignY=36&descAlign=53&descAlignY=49&textBg=false&fontSize=46&animation=fadeIn&section=footer"/>
-
-
