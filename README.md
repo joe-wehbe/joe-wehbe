@@ -1,6 +1,6 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=122B6C&fontAlign=0&reversal=false&fontAlignY=0&descAlign=100&descAlignY=100"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=122B6C&text=Hi,%20I'm%20Joe%20Wehbe&fontAlign=50&reversal=false&fontAlignY=20&descAlign=49&descAlignY=44&textBg=false&fontSize=30&animation=fadeIn&fontColor=CACACA&section=header&desc=Junior%20Software%20Engineer&descSize=16&rotate=0"/>
 
-![github-header-image](https://github.com/joe-wehbe/joe-wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112)
+<!-- ![github-header-image](https://github.com/joe-wehbe/joe-wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112) -->
 
 ### Tools and Languages
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -239,10 +239,9 @@ Other <br>
 <a href="https://leetcode.com/joe-wehbe/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" width = "46"/></a>
 <a href="https://lichess.org/@/JW8"><img align="center" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format" width = "46"/></a>-->
 
-
-<a href="https://github.com/joe-wehbe" target="_blank"> <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FJoe+Wehbe&size=square" alt="Joe Wehbe"></a>
-<a href="https://www.linkedin.com/in/joe-wehbe/" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Joe+Wehbe&size=square" alt="Joe Wehbe"></a>
 <a href="joewehbe@yahoo.com" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=joewehbe%40yahoo.com&subtitle=joewehbe@yahoo.com&size=square" alt="Joe Wehbe"></a>
+<a href="https://www.linkedin.com/in/joe-wehbe/" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Joe+Wehbe&size=square" alt="Joe Wehbe"></a>
+<a href="https://github.com/joe-wehbe" target="_blank"> <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FJoe+Wehbe&size=square" alt="Joe Wehbe"></a>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=122B6C&fontAlign=50&reversal=false&fontAlignY=36&descAlign=53&descAlignY=49&textBg=false&fontSize=46&animation=fadeIn&section=footer"/>
