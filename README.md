@@ -1,9 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=122B6C&text=Hi,%20I'm%20Joe%20Wehbe&fontAlign=50&reversal=false&fontAlignY=20&descAlign=49&descAlignY=44&textBg=false&fontSize=30&animation=fadeIn&fontColor=CACACA&section=header&desc=Junior%20Software%20Engineer&descSize=16&rotate=0"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=122B6C&text=Hi,%20I'm%20Joe%20Wehbe&fontAlign=50&reversal=false&fontAlignY=20&descAlign=49&descAlignY=44&textBg=false&fontSize=30&animation=fadeIn&fontColor=CACACA&section=header&desc=Junior%20Software%20Engineer&descSize=16&rotate=0"/> -->
 
-<!-- ![github-header-image](https://github.com/joe-wehbe/joe-wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112) -->
+![github-header-image](https://github.com/joe-wehbe/joe-wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112)
+<img align="right" alt="Coding" width="270" src = "https://github.com/joe-wehbe/joe-wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
 ### Tools and Languages
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<!-- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
       <th colspan="8" align="center" style="color: white;">Languages</th>
@@ -39,7 +40,7 @@
   </tbody>
 </table>
 
-<img align="right" alt="Coding" width="270" src = "https://github.com/joe-wehbe/joe-wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
+------------
 
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
@@ -149,9 +150,9 @@
       </td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
-<!-- <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"> </a> 
+<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"> </a>
@@ -200,7 +201,7 @@ Other <br>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"> </a> 
-</p> -->
+</p>
 
 ***
 
