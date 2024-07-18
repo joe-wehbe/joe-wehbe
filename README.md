@@ -82,6 +82,9 @@
         <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" width="50" height="50"/><br>Jupyter
       </td>
       <td align="center" style="border: none;">
+        <img <img src="https://skillicons.dev/icons?i=anaconda" width="50" height="50"/><br>Anaconda
+      </td>
+      <td align="center" style="border: none;">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="50" height="50"/><br>Postman
       </td>
     </tr>
@@ -100,6 +103,9 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50" height="50" alt="Node.js"/><br>VS Code
       </td>
       <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50" alt="Node.js"/><br>Visual Studio
+      </td>
+      <td align="center" style="border: none;">
         <img src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" width="50" height="50" alt="Django"/><br>Android Studio
       </td>
       <td align="center" style="border: none;">
@@ -110,6 +116,9 @@
       </td>
       <td align="center" style="border: none;">
         <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/be791591-7b5a-4ada-9331-ff577f71a530" width="50" height="50"/><br>Spyder
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" alt="Node.js"/><br>Pycharm
       </td>
       <td align="center" style="border: none;">
         <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" width="50" height="50"/><br>Sublime
