@@ -221,8 +221,8 @@ Other <br>
 
 ### Connect with me
 <a href="mailto:joewehbe@yahoo.com" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=joewehbe%40yahoo.com&subtitle=joewehbe@yahoo.com&size=square" alt="Joe Wehbe"></a>
-<a href="https://www.linkedin.com/in/joe-wehbe/" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Joe+Wehbe&size=square" alt="Joe Wehbe"></a>
-<a href="https://github.com/joe-wehbe" target="_blank"> <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FJoe+Wehbe&size=square" alt="Joe Wehbe"></a>
-<a href="https://leetcode.com/u/Joe-Wehbe/" target="_blank"> <img src="https://github.com/user-attachments/assets/29bc2477-3a4a-4416-bfe2-d27137cfc34d" width=175 alt="Joe Wehbe"></a>
+<a href="https://www.linkedin.com/in/joe-wehbe/" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=in/joe-wehbe&size=square" alt="Joe Wehbe"></a>
+<a href="https://github.com/joe-wehbe" target="_blank"> <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=/joe-wehbe&size=square" alt="Joe Wehbe"></a>
+<a href="https://leetcode.com/u/Joe-Wehbe/" target="_blank"> <img src="https://github.com/user-attachments/assets/29bc2477-3a4a-4416-bfe2-d27137cfc34d" width=176 alt="Joe Wehbe"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=122B6C&fontAlign=50&reversal=false&fontAlignY=36&descAlign=53&descAlignY=49&textBg=false&fontSize=46&animation=fadeIn&section=footer"/>
