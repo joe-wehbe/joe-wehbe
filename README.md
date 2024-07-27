@@ -1,5 +1,3 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=122B6C&text=Hi,%20I'm%20Joe%20Wehbe&fontAlign=50&reversal=false&fontAlignY=20&descAlign=49&descAlignY=44&textBg=false&fontSize=30&animation=fadeIn&fontColor=CACACA&section=header&desc=Junior%20Software%20Engineer&descSize=16&rotate=0"/> -->
-
 ![github-header-image](https://github.com/joe-wehbe/joe-wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112)
 <img align="right" alt="Coding" width="270" src = "https://github.com/joe-wehbe/joe-wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
