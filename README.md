@@ -1,7 +1,6 @@
 ![github-header-image](https://github.com/joe-wehbe/joe-wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112)
 <img align="right" alt="Coding" width="270" src = "https://github.com/joe-wehbe/joe-wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
-### Tools and Languages
 <!-- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -150,6 +149,8 @@
   </tbody>
 </table> -->
 
+<p align="left">
+Tools and Languages <br>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"> </a>
