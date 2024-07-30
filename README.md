@@ -209,7 +209,7 @@ Other <br>
 
 ***
 
-### Some Statistics
+### Some Statistics <img src="https://github.com/user-attachments/assets/db02607f-7e22-4b03-80bb-4cc3ed0f30d4" width="35" alt="icon">
 | Contributions | Languages | 
 | ------------- | --------- |
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=joe-wehbe&show_icons=true&theme=transparent&locale=en&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joe-wehbe&show_icons=true&exclude_repo=joe-wehbe,CineLeb&locale=en&layout=compact&theme=transparent&hide_border=true" alt="joe-wehbe" /> | 
@@ -218,7 +218,7 @@ Other <br>
 
 ***
 
-### Connect with me
+### Connect with me <img src="https://github.com/user-attachments/assets/1df06e5f-4408-4cd5-924f-3674d2ddf06c" width="35" alt="icon">
 <a href="mailto:joewehbe@yahoo.com" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=joewehbe%40yahoo.com&subtitle=joewehbe@yahoo.com&size=square" alt="Joe Wehbe"></a>
 <a href="https://www.linkedin.com/in/joe-wehbe/" target="_blank"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=in/joe-wehbe&size=square" alt="Joe Wehbe"></a>
 <a href="https://github.com/joe-wehbe" target="_blank"> <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=/joe-wehbe&size=square" alt="Joe Wehbe"></a>
