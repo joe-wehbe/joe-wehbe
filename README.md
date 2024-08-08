@@ -37,7 +37,7 @@
   </tbody>
 </table>
 
-------------
+<img align="right" alt="Coding" width="270" src = "https://github.com/joe-wehbe/joe-wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
