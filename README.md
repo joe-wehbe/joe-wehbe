@@ -1,5 +1,4 @@
 ![github-header-image](https://github.com/joe-wehbe/joe-wehbe/assets/102875229/948c2833-e7d6-44c8-b2d6-a1290b0ed112)
-<img align="right" alt="Coding" width="270" src = "https://github.com/joe-wehbe/joe-wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
 <p align="left">
 Tools and Languages <br>
@@ -12,6 +11,8 @@ Tools and Languages <br>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"></a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"> </a>
 </p>
+
+<img align="right" alt="Coding" width="270" src = "https://github.com/joe-wehbe/joe-wehbe/assets/102875229/f19a8421-190e-405c-884f-6cc2f709cfcb">
 
 <p align="left">
 Frameworks/Platforms/Libraries <br>
