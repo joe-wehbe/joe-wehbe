@@ -16,10 +16,10 @@ Tools and Languages <br>
 
 <p align="left">
 Frameworks/Platforms/Libraries <br>
+<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular"></a>    
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"></a>    
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white" alt="ionic"></a>
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="firebase"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"> </a>
@@ -30,12 +30,12 @@ Frameworks/Platforms/Libraries <br>
 
 <p align="left">
 IDEs/Editors <br>
+<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white" alt="Rstudio"> </a>    
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse"> </a>
-<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" alt="spyder"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="notepad++"> </a>
@@ -44,6 +44,7 @@ IDEs/Editors <br>
 
 <p align="left">
 Databases <br>
+<a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgresql-005C84?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres"> </a>  
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"> </a>  
 <a target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"> </a> 
 </p>
