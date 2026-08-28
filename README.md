@@ -66,9 +66,9 @@ Other <br>
 ### Some Statistics
 | Contributions | Languages | 
 | ------------- | --------- |
-| <img align="center" src="https://raw.githubusercontent.com/joe-wehbe/joe-wehbe/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/joe-wehbe/joe-wehbe/main/profile-summary-card-output/transparent/1-repos-per-language.svg" alt="joe-wehbe" /> | 
-| <img width="500" align="center" src="https://raw.githubusercontent.com/joe-wehbe/joe-wehbe/main/profile-summary-card-output/transparent/3-stats.svg" alt="Joe's github activity graph" /> | <img align="center" src="https://raw.githubusercontent.com/joe-wehbe/joe-wehbe/main/profile-summary-card-output/transparent/2-most-commit-language.svg" alt="joe-wehbe"/> |
-| <img align="center" src="https://streak-stats.demolab.com?user=joe-wehbe&theme=transparent&hide_border=true" alt="joe-wehbe"/> | &nbsp;&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/joe-wehbe/joe-wehbe/main/profile-summary-card-output/transparent/1-repos-per-language.svg" alt="joe-wehbe" opacity="0" style="display:none;" /> |
+| <img align="center" width="600" src="https://raw.githubusercontent.com/joe-wehbe/joe-wehbe/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="joe-wehbe"/> | <img width="400" align="center" src="https://raw.githubusercontent.com/joe-wehbe/joe-wehbe/main/profile-summary-card-output/transparent/1-repos-per-language.svg" alt="joe-wehbe" /> | 
+| <img width="600" align="center" src="https://raw.githubusercontent.com/joe-wehbe/joe-wehbe/main/profile-summary-card-output/transparent/3-stats.svg" alt="Joe's github activity graph" /> | <img align="center" width="400" src="https://raw.githubusercontent.com/joe-wehbe/joe-wehbe/main/profile-summary-card-output/transparent/2-most-commit-language.svg" alt="joe-wehbe"/> |
+| <img width="600" align="center" src="https://streak-stats.demolab.com?user=joe-wehbe&theme=transparent&hide_border=true" alt="joe-wehbe"/> | <img width="400" align="center" src="https://raw.githubusercontent.com/joe-wehbe/joe-wehbe/main/profile-summary-card-output/transparent/1-repos-per-language.svg" alt="joe-wehbe" opacity="0" style="display:none;" /> |
 
 ***
 
